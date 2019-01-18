@@ -1,0 +1,179 @@
+#EXTM3U
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sempre Atualizando.: 18/01 - 12:20
+Http://0.0.0.0
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Links TEMPORARIOS 
+http://0.0.0.0
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id=GLOBO SP group-title=Canais | Diversos,GLOBO SP
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/17.m3u8
+
+#EXTINF:0 tvg-id=SBT SP group-title=Canais | Diversos,SBT SP
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/2.m3u8
+
+#EXTINF:0 tvg-id=RECORD SP group-title=Canais| Diversos,RECORD SP
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/3.m3u8
+ 
+#EXTINF:0 tvg-id=BAND group-title=Canais| Diversos, BAND
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/4.m3u8
+
+#EXTINF:0 tvg-id=REDETV group-title=Canais| Diversos,REDETV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+
+#EXTINF:0 tvg-id=Animal Planet group-title=Canais| Diversos,Animal Planet
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/101.m3u8?token=QxBcWRdYGgoRAwVXVABeCQFXAwsCAAUHW1ELBgALUwUIUAxcVgMOA1JDHxcXREpcVghtUVcUXlIIAxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoAAAUBABcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgEIDQAVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhELAQwCGk8=
+
+#EXTINF:0 tvg-id=Nat Geo Wild group-title=Canais|Diversos,Nat Geo Wild
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/113.m3u8?token=QxBcWRdYGgoRUlIDU1RbCVZWVAhQA1IACwoBBwBYBgddAFddVVEAVQpDHxcXREpcVghtUVcUXlIJARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCgQLGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCgoLChcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgEIDAYBGk8=
+
+#EXTINF:0 tvg-id=History group-title=Canais| Diversos,History
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/102.m3u8
+
+#EXTINF:0 tvg-id=National Geographic group-title=Canais| Diversos,National Geographic 
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/112.m3u8?token=QxBcWRdYGgoRB1UDAQcBDQNRBwAAVFdaDVNcVQoMVgUOClAAUAEOAAdDHxcXREpcVghtUVcUXlIJABQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoEDgMLGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCgUKChcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgIMCwEHGk8=
+
+#EXTINF:0 tvg-id=Discovery Turbo HD group-title=Canais| Diversos,Discovery Turbo
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/109.m3u8?token=QxBcWRdYGgoRAwcNAQQMX1ZcAFoDBAJSCgFZAQ8LVg8BClcBAgILVFdDHxcXREpcVghtUVcUXlIICxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACwQBDhcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgEADgwVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhELCAYHDhBJ
+
+#EXTINF:0 tvg-id=Discovery Channel group-title=Canais| Diversos,Discovery Channel
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/104.m3u8?token=QxBcWRdYGgoRUgQGUVZZWgFUUF5XVFZVWVAMVV0NVA5bUQUMVlYMUVJDHxcXREpcVghtUVcUXlIIBhQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACQQMDRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgEMDgQVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhEKCAMODRBJ
+
+#EXTINF:0 tvg-id=Discovery H&H group-title=Canais|Diversos,Discovery H&H
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/106.m3u8?token=QxBcWRdYGgoRAlUBVwFZDQUHCg9WVAYCWlANVwENVAcNC1EBVVRbCQRDHxcXREpcVghtUVcUXlIIBBQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCwAJDxcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgIJCgwVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhELCQYOABBJ
+
+#EXTINF:0 tvg-id=Combate group-title=Canais|Diversos,Combate
+http://maxptv.ddns.net:25461/live/MA020/0706/195.ts
+
+#EXTINF:0 tvg-id=BandSports group-title=Canais|Diversos,BandSports
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/34.m3u8
+
+#EXTINF:0 tvg-id=SporTV group-title= Canais| Diversos,SporTV
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/25.m3u8
+
+#EXTINF:0 tvg-id=SporTV2 group-title=Canais|Diversos,SporTV2
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/26.m3u8
+
+#EXTINF:0 tvg-id=SporTV3 group-title=Canais|Diversos,SporTV3
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/27.m3u8
+
+#EXTINF:0 tvg-id=Fox Sports group-title=Canais|Diversos,Fox Sports
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/28.m3u8
+
+#EXTINF:0 tvg-id=Fox Sports2 group-title=Canais|Diversos,Fox Sports2
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/29.m3u8
+
+#EXTINF:0 tvg-id=ESPN group-title=Canais|Diversos,ESPN
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/30.m3u8
+
+#EXTINF:0 tvg-id=ESPN BRASIL group-title=Canais|Diversos,ESPN BRASIL
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/32.m3u8
+
+#EXTINF:0 tvg-id=MEGAPIX HD group-title=Canais|Diversos,MEGAPIX 
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/68.m3u8
+
+#EXTINF:0 tvg-id=MAXPRIME group-title=Canais|Diversos,MAXPRIME
+http://srvlista.com:80/live/Eduardo12/1234/3155.m3u8
+
+#EXTINF:0 tvg-id=AXN HD group-title=Canais|Diversos,AXN
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/70.m3u8
+
+#EXTINF:0 tvg-id=AMC group-title=Canais|Diversos,AMC
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/69.m3u8
+
+#EXTINF:0 tvg-id=TNT SERIES group-title=Canais| Diversos,TNT SERIES
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/66.m3u8
+
+#EXTINF:0 tvg-id=FOX PREMIUM 1 group-title=Canais|Diversos,FOX PREMIUM1
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/62.m3u8
+
+#EXTINF:0 tvg-id=FOX PREMIUM 2 group-title=Canais|Diversos,FOX PREMIUM2
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/63.m3u8
+
+#EXTINF:0 tvg-id=CINEMAX  group-title=Canais|Diversos,CINEMAX
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/76.m3u8
+
+#EXTINF:0 tvg-id=HBO group-title=Canais|Diversos,HBO
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/54.m3u8
+
+#EXTINF:0 tvg-id=HBO 2 group-title=Canais|Diversos,HBO 2
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/55.m3u8
+
+#EXTINF:0 tvg-id=HBO Family group-title=Canais|Diversos,HBO Family
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/57.m3u8
+
+#EXTINF:0 tvg-id=HBO Plus group-title=Canais|Diversos,HBO Plus
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/56.m3u8
+
+#EXTINF:0 tvg-id=HBO Signature group-title=Canais|Diversos,HBO Signature
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/58.m3u8
+
+#EXTINF:0 tvg-id=Telecine Action group-title=Canais|Diversos,Telecine Action
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/51.m3u8
+
+#EXTINF:0 tvg-id=Telecine Premium group-title=Canais|Diversos,Telecine Premium
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/48.m3u8
+
+#EXTINF:0 tvg-id=Telecine Pipoca group-title=Canais|Diversos,Telecine Pipoca
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/49.m3u8
+
+#EXTINF:0 tvg-id=Telecine Cult group-title=Canais|Diversos,Telecine Cult
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/53.m3u8
+
+#EXTINF:0 tvg-id=Telecine Touch group-title=Canais|Diversos,Telecine Touch
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/52.m3u8
+
+#EXTINF:0 tvg-id=Telecine Fun group-title=Canais|Diversos,Telecine Fun
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/50.m3u8
+
+#EXTINF:0 tvg-id=SYFY group-title=Canais|Diversos,SYFY
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/60.m3u8
+
+#EXTINF:0 tvg-id=FX group-title=Canais|Diversos,FX 
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/47.m3u8
+
+#EXTINF:0 tvg-id=Space group-title=Canais|Diversos,Space
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/67.m3u8
+
+#EXTINF:0 tvg-id=TNT group-title=Canais|Diversos,TNT 
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/65.m3u8
+
+#EXTINF:0 tvg-id=Sony group-title=Canais|Diversos,Sony
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/59.m3u8
+
+#EXTINF:0 tvg-id=GLOBOSAT group-title=Canais|Diversos,GLOBOSAT
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/81.m3u8?token=QxBcWRdYGgoRUVAEVFMNWw8BBApXUlRWClBZUAkJVgUIBgcIXAIBUQBDHxcXREpcVghtUVcUXlsJHhpGS1xHaFFWFgJGARocERVaWAESAgkbR0JRVxReQQkGCAQNGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQJcTV9UFRdUV0daTBZJGgoRI2EXSBJdQUMAXEtaWQpBAhBVAE0BFxsaW0dnFlVLREEEUlgBQhoDFVUQFBFbBRtnUVddVlxWQ1FdWktGChoAEU0RWAteUU1YF21IWlJGWRoDDAMOABdK
+
+#EXTINF:0 tvg-id=Nickelodeon group-title=Canais|Diversos,Nickelodeon
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/123.m3u8?token=QxBcWRdYGgoRWAoDUgFdAAZSVA1XBVxVCgZZV10MAFZbVlYMAgYIVABDHxcXREpcVghtUVcUXlIKARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDDgcIGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCgMOARcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgAIAQIEGk8=
+
+#EXTINF:0 tvg-id=Tooncast group-title=Canais|Diversos,Tooncast
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/124.m3u8?token=QxBcWRdYGgoRAAtXVQgLDQAAAlkABlZWD1EIBgwNAQRbUwxcVgAJAldDHxcXREpcVghtUVcUXlIKBhQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCwIPDRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgINDwIVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhEJCgQDARBJ
+
+#EXTINF:0 tvg-id=Boomerang group-title=Canais|Diversos,Boomerang
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/127.m3u8?token=QxBcWRdYGgoRBVFUUAJcWg9QBAsDAwBQXQYMBgtbDAMNBFUJAlUKUQVDHxcXREpcVghtUVcUXlIKBRQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDDwMIChcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgsNDBcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgYNDg0VRQ==
+
+#EXTINF:0 tvg-id=Baby tv group-title=Canais|Diversos,Baby tv
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/128.m3u8?token=QxBcWRdYGgoRVwoNAAhbDgZXAlkEV1VSXAMAAFkAVgVdVgUKBgRaCVJDHxcXREpcVghtUVcUXlIKChQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCwsAChcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgIJCQMVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhEJCg0PCBBJ
+
+#EXTINF:0 tvg-id=Nat Geo Kids group-title=Canais|Diversos,Nat Geo Kids
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/114.m3u8?token=QxBcWRdYGgoRUQNQV1YNXFJRAA0HU1IHDlAOBg4NBlRZA1EMVgYOAQNDHxcXREpcVghtUVcUXlIJBhQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoADQIJGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCQAODhcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgEPDw0GGk8=
+
+#EXTINF:0 tvg-id=Gloob group-title=Canais|Diversos,Gloob
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/121.m3u8?token=QxBcWRdYGgoRAwIEXVFZDQIDVFsHVVMGAFdZAllYBlRcAFYMUVYNCAVDHxcXREpcVghtUVcUXlIKAxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCQsPCRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgEAAAAVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhEMCwECGk8=
+
+#EXTINF:0 tvg-id=Discovery Kids group-title=Canais|Diversos,Discovery Kids
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/111.m3u8?token=QxBcWRdYGgoRAgANXVVeWwBSUFlXBgAFWVcBCgFfBg8NCwcNVwldAQFDHxcXREpcVghtUVcUXlIJAxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoKAAENGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCgUPDhcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgsOCwMVRQ==
