@@ -2,10 +2,8 @@
 
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sempre Atualizando.: 18/01 - 12:20
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sempre Atualizando.: 19/01/2019
 Http://0.0.0.0
-
 
 
 
@@ -14,166 +12,398 @@ http://0.0.0.0
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",TCM 10 HD
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="FILMES E SÉRIES",A&E HD
+http://maxptv.ddns.net:25461/live/MA020/0706/231.ts
+#EXTINF:0 tvg-id="AyE.mx" group-title="FILMES E SÉRIES",A&E SD
+http://maxptv.ddns.net:25461/live/MA020/0706/230.ts
+#EXTINF:0 tvg-id="AMC.uk" group-title="FILMES E SÉRIES",AMC HD
+http://maxptv.ddns.net:25461/live/MA020/0706/229.ts
+#EXTINF:0 tvg-id="AMC.uk" group-title="FILMES E SÉRIES",AMC SD
+http://maxptv.ddns.net:25461/live/MA020/0706/228.ts
+#EXTINF:0 tvg-id="AXN.pl" group-title="FILMES E SÉRIES",AXN HD
+http://maxptv.ddns.net:25461/live/MA020/0706/224.ts
+#EXTINF:0 tvg-id="AXN.cz" group-title="FILMES E SÉRIES",AXN SD
+http://maxptv.ddns.net:25461/live/MA020/0706/223.ts
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="FILMES E SÉRIES",Cinemax HD
+http://maxptv.ddns.net:25461/live/MA020/0706/198.ts
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="FILMES E SÉRIES",Cinemax SD
+http://maxptv.ddns.net:25461/live/MA020/0706/197.ts
+#EXTINF:0 tvg-id="FilmyArtsHD.cl" group-title="FILMES E SÉRIES",Film & Arts HD
+http://maxptv.ddns.net:25461/live/MA020/0706/156.ts
+#EXTINF:0 tvg-id="FilmArts.ar" group-title="FILMES E SÉRIES",Film & Arts SD
+http://maxptv.ddns.net:25461/live/MA020/0706/155.ts
+#EXTINF:0 tvg-id="FX.uk" group-title="FILMES E SÉRIES",FOX HD
+http://maxptv.ddns.net:25461/live/MA020/0706/154.ts
+#EXTINF:0 tvg-id="fox-life-hd" group-title="FILMES E SÉRIES",FOX Life HD
+http://maxptv.ddns.net:25461/live/MA020/0706/153.ts
+#EXTINF:0 tvg-id="fox-life" group-title="FILMES E SÉRIES",FOX Life SD
+http://maxptv.ddns.net:25461/live/MA020/0706/152.ts
+#EXTINF:0 tvg-id="FX.uk" group-title="FILMES E SÉRIES",FOX SD
+http://maxptv.ddns.net:25461/live/MA020/0706/147.ts
+#EXTINF:0 tvg-id="FXHD.mx" group-title="FILMES E SÉRIES",FX HD
+http://maxptv.ddns.net:25461/live/MA020/0706/142.ts
+#EXTINF:0 tvg-id="FX.uk" group-title="FILMES E SÉRIES",FX SD
+http://maxptv.ddns.net:25461/live/MA020/0706/141.ts
+#EXTINF:0 tvg-id="Fishtv.br" group-title="FILMES E SÉRIES",Fish Tv SD
+http://maxptv.ddns.net:25461/live/MA020/0706/214.ts
+#EXTINF:0 tvg-id="Fishtv.br" group-title="FILMES E SÉRIES",Fish Tv HD
+http://maxptv.ddns.net:25461/live/MA020/0706/213.ts
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="FILMES E SÉRIES",Food Network HD
+http://maxptv.ddns.net:25461/live/MA020/0706/333.ts
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="FILMES E SÉRIES",Food Network SD
+http://maxptv.ddns.net:25461/live/MA020/0706/334.ts
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="FILMES E SÉRIES",Fox Premium 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/151.ts
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="FILMES E SÉRIES",Fox Premium 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/150.ts
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",Fox Premium HD
+http://maxptv.ddns.net:25461/live/MA020/0706/149.ts
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",Fox Premium SD
+http://maxptv.ddns.net:25461/live/MA020/0706/148.ts
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="FILMES E SÉRIES",Fox Sports 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
+#EXTINF:0 tvg-id="H2.uk" group-title="FILMES E SÉRIES",H2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/134.ts
+#EXTINF:0 tvg-id="H2.uk" group-title="FILMES E SÉRIES",H2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/133.ts
+#EXTINF:0 tvg-id="HBO2.pl" group-title="FILMES E SÉRIES",HBO 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/132.ts
+#EXTINF:0 tvg-id="HBO2.cz" group-title="FILMES E SÉRIES",HBO 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/131.ts
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="FILMES E SÉRIES",HBO Family HD
+http://maxptv.ddns.net:25461/live/MA020/0706/130.ts
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="FILMES E SÉRIES",HBO Family SD
+http://maxptv.ddns.net:25461/live/MA020/0706/129.ts
+#EXTINF:0 tvg-id="HBO.pl" group-title="FILMES E SÉRIES",HBO HD
+http://maxptv.ddns.net:25461/live/MA020/0706/128.ts
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",HBO Plus *e HD
+http://maxptv.ddns.net:25461/live/MA020/0706/127.ts
+#EXTINF:0 tvg-id="Hbopluse.br" group-title="FILMES E SÉRIES",HBO Plus *e SD
+http://maxptv.ddns.net:25461/live/MA020/0706/126.ts
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="FILMES E SÉRIES",HBO Plus HD
+http://maxptv.ddns.net:25461/live/MA020/0706/125.ts
+#EXTINF:0 tvg-id="Hboplus.br" group-title="FILMES E SÉRIES",HBO Plus SD
+http://maxptv.ddns.net:25461/live/MA020/0706/124.ts
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="FILMES E SÉRIES",HBO SD
+http://maxptv.ddns.net:25461/live/MA020/0706/123.ts
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="FILMES E SÉRIES",HBO Signature HD
+http://maxptv.ddns.net:25461/live/MA020/0706/122.ts
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="FILMES E SÉRIES",HBO Signature SD
+http://maxptv.ddns.net:25461/live/MA020/0706/121.ts
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="FILMES E SÉRIES",Lifetime HD
+http://maxptv.ddns.net:25461/live/MA020/0706/116.ts
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="FILMES E SÉRIES",Lifetime SD
+http://maxptv.ddns.net:25461/live/MA020/0706/115.ts
+#EXTINF:0 tvg-id="MaxPrimeHD.ar" group-title="FILMES E SÉRIES",MAX Prime HD
+http://maxptv.ddns.net:25461/live/MA020/0706/109.ts
+#EXTINF:0 tvg-id="Maxprime.br" group-title="FILMES E SÉRIES",MAX Prime SD
+http://maxptv.ddns.net:25461/live/MA020/0706/108.ts
+#EXTINF:0 tvg-id="MaxHD.mx" group-title="FILMES E SÉRIES",Max HD
+http://maxptv.ddns.net:25461/live/MA020/0706/112.ts
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",Max Prime *e HD
+http://maxptv.ddns.net:25461/live/MA020/0706/111.ts
+#EXTINF:0 tvg-id="Maxprimee.br" group-title="FILMES E SÉRIES",Max Prime *e SD
+http://maxptv.ddns.net:25461/live/MA020/0706/110.ts
+#EXTINF:0 tvg-id="MaxTV.uk" group-title="FILMES E SÉRIES",Max SD
+http://maxptv.ddns.net:25461/live/MA020/0706/107.ts
+#EXTINF:0 tvg-id="Maxup.br" group-title="FILMES E SÉRIES",Max UP HD
+http://maxptv.ddns.net:25461/live/MA020/0706/106.ts
+#EXTINF:0 tvg-id="Maxup.br" group-title="FILMES E SÉRIES",Max UP SD
+http://maxptv.ddns.net:25461/live/MA020/0706/105.ts
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SÉRIES",Megapix HD
+http://maxptv.ddns.net:25461/live/MA020/0706/104.ts
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SÉRIES",Megapix SD
+http://maxptv.ddns.net:25461/live/MA020/0706/103.ts
+#EXTINF:0 tvg-id="paramount" group-title="FILMES E SÉRIES",Paramount Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/86.ts
+#EXTINF:0 tvg-id="Paramount.uk" group-title="FILMES E SÉRIES",Paramount Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/85.ts
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",Prime Box Brazil HD
+http://maxptv.ddns.net:25461/live/MA020/0706/68.ts
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",Prime Box Brazil SD
+http://maxptv.ddns.net:25461/live/MA020/0706/67.ts
+#EXTINF:0 tvg-id="set" group-title="FILMES E SÉRIES",Sony HD
+http://maxptv.ddns.net:25461/live/MA020/0706/52.ts
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="FILMES E SÉRIES",Sony SD
+http://maxptv.ddns.net:25461/live/MA020/0706/51.ts
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="FILMES E SÉRIES",Space HD
+http://maxptv.ddns.net:25461/live/MA020/0706/50.ts
+#EXTINF:0 tvg-id="Space.br" group-title="FILMES E SÉRIES",Space SD
+http://maxptv.ddns.net:25461/live/MA020/0706/49.ts
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="FILMES E SÉRIES",Studio Universal HD
+http://maxptv.ddns.net:25461/live/MA020/0706/42.ts
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="FILMES E SÉRIES",Studio Universal SD
+http://maxptv.ddns.net:25461/live/MA020/0706/41.ts
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="FILMES E SÉRIES",Syfy HD
+http://maxptv.ddns.net:25461/live/MA020/0706/40.ts
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="FILMES E SÉRIES",Syfy SD
+http://maxptv.ddns.net:25461/live/MA020/0706/39.ts
+#EXTINF:0 tvg-id="TBSHD.us" group-title="FILMES E SÉRIES",TBS HD
+http://maxptv.ddns.net:25461/live/MA020/0706/38.ts
+#EXTINF:0 tvg-id="24dok" group-title="FILMES E SÉRIES",TBS SD
+http://maxptv.ddns.net:25461/live/MA020/0706/37.ts
+#EXTINF:0 tvg-id="TCM.uk" group-title="FILMES E SÉRIES",TCM HD
+http://maxptv.ddns.net:25461/live/MA020/0706/36.ts
+#EXTINF:0 tvg-id="TCM.uk" group-title="FILMES E SÉRIES",TCM SD
+http://maxptv.ddns.net:25461/live/MA020/0706/35.ts
+#EXTINF:0 tvg-id="TLC.uk" group-title="FILMES E SÉRIES",TLC HD
+http://maxptv.ddns.net:25461/live/MA020/0706/22.ts
+#EXTINF:0 tvg-id="TLC.uk" group-title="FILMES E SÉRIES",TLC SD
+http://maxptv.ddns.net:25461/live/MA020/0706/21.ts
+#EXTINF:0 tvg-id="TCM.pl" group-title="FILMES E SÉRIES",TNT HD
+http://maxptv.ddns.net:25461/live/MA020/0706/20.ts
+#EXTINF:0 tvg-id="tnt-international-baltic" group-title="FILMES E SÉRIES",TNT SD
+http://maxptv.ddns.net:25461/live/MA020/0706/19.ts
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="FILMES E SÉRIES",TNT Series HD
+http://maxptv.ddns.net:25461/live/MA020/0706/18.ts
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="FILMES E SÉRIES",TNT Series SD
+http://maxptv.ddns.net:25461/live/MA020/0706/17.ts
+#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES E SÉRIES",Telecine Action HD
+http://maxptv.ddns.net:25461/live/MA020/0706/34.ts
+#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES E SÉRIES",Telecine Action SD
+http://maxptv.ddns.net:25461/live/MA020/0706/33.ts
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="FILMES E SÉRIES",Telecine Cult HD
+http://maxptv.ddns.net:25461/live/MA020/0706/31.ts
+#EXTINF:0 tvg-id="Tccult.br" group-title="FILMES E SÉRIES",Telecine Cult SD
+http://maxptv.ddns.net:25461/live/MA020/0706/32.ts
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="FILMES E SÉRIES",Telecine Fun HD
+http://maxptv.ddns.net:25461/live/MA020/0706/30.ts
+#EXTINF:0 tvg-id="Tcfun.br" group-title="FILMES E SÉRIES",Telecine Fun SD
+http://maxptv.ddns.net:25461/live/MA020/0706/29.ts
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES E SÉRIES",Telecine Pipoca HD
+http://maxptv.ddns.net:25461/live/MA020/0706/28.ts
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES E SÉRIES",Telecine Pipoca SD
+http://maxptv.ddns.net:25461/live/MA020/0706/27.ts
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="FILMES E SÉRIES",Telecine Premium HD
+http://maxptv.ddns.net:25461/live/MA020/0706/26.ts
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="FILMES E SÉRIES",Telecine Premium SD
+http://maxptv.ddns.net:25461/live/MA020/0706/25.ts
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="FILMES E SÉRIES",Telecine Touch HD
+http://maxptv.ddns.net:25461/live/MA020/0706/24.ts
+#EXTINF:0 tvg-id="Tctouch.br" group-title="FILMES E SÉRIES",Telecine Touch SD
+http://maxptv.ddns.net:25461/live/MA020/0706/23.ts
+#EXTINF:0 tvg-id="Tooncast.ar" group-title="FILMES E SÉRIES",Tooncast HD
+http://maxptv.ddns.net:25461/live/MA020/0706/16.ts
+#EXTINF:0 tvg-id="Universal.uk" group-title="FILMES E SÉRIES",Universal Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/12.ts
+#EXTINF:0 tvg-id="Universal.uk" group-title="FILMES E SÉRIES",Universal Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/11.ts
 
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="DOCUMENTÁRIOS",Animal Planet HD
+http://maxptv.ddns.net:25461/live/MA020/0706/227.ts
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="DOCUMENTÁRIOS",Animal Planet SD
+http://maxptv.ddns.net:25461/live/MA020/0706/232.ts
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",Arte1 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/226.ts
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",Arte1 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/225.ts
+#EXTINF:0 tvg-id="Bishd.br" group-title="DOCUMENTÁRIOS",BIS HD
+http://maxptv.ddns.net:25461/live/MA020/0706/212.ts
+#EXTINF:0 tvg-id="Bis.br" group-title="DOCUMENTÁRIOS",BIS SD
+http://maxptv.ddns.net:25461/live/MA020/0706/211.ts
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",Curta! HD
+http://maxptv.ddns.net:25461/live/MA020/0706/208.ts
+#EXTINF:0 tvg-id="Off.br" group-title="DOCUMENTÁRIOS",OFF HD
+http://maxptv.ddns.net:25461/live/MA020/0706/204.ts
+#EXTINF:0 tvg-id="Off.br" group-title="DOCUMENTÁRIOS",Canal OFF SD
+http://maxptv.ddns.net:25461/live/MA020/0706/203.ts
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="DOCUMENTÁRIOS",Comedy Central HD
+http://maxptv.ddns.net:25461/live/MA020/0706/194.ts
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="DOCUMENTÁRIOS",Comedy Central SD
+http://maxptv.ddns.net:25461/live/MA020/0706/193.ts
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",Cultura HD
+http://maxptv.ddns.net:25461/live/MA020/0706/192.ts
+#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTÁRIOS",Discovery Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/190.ts
+#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTÁRIOS",Discovery Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/189.ts
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",Discovery Civilization HD
+http://maxptv.ddns.net:25461/live/MA020/0706/188.ts
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="DOCUMENTÁRIOS",Discovery Civilization SD
+http://maxptv.ddns.net:25461/live/MA020/0706/187.ts
+#EXTINF:0 tvg-id="DiscoveryHomeHealthHD.ar" group-title="DOCUMENTÁRIOS",Discovery Home & Health HD
+http://maxptv.ddns.net:25461/live/MA020/0706/186.ts
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="DOCUMENTÁRIOS",Discovery Home & Health SD
+http://maxptv.ddns.net:25461/live/MA020/0706/185.ts
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="DOCUMENTÁRIOS",Discovery Science HD
+http://maxptv.ddns.net:25461/live/MA020/0706/182.ts
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="DOCUMENTÁRIOS",Discovery Science SD
+http://maxptv.ddns.net:25461/live/MA020/0706/181.ts
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="DOCUMENTÁRIOS",Discovery Theater HD
+http://maxptv.ddns.net:25461/live/MA020/0706/180.ts
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="DOCUMENTÁRIOS",Discovery Turbo HD
+http://maxptv.ddns.net:25461/live/MA020/0706/178.ts
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="DOCUMENTÁRIOS",Discovery Turbo SD
+http://maxptv.ddns.net:25461/live/MA020/0706/177.ts
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="DOCUMENTÁRIOS",Discovery World HD
+http://maxptv.ddns.net:25461/live/MA020/0706/176.ts
+#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTÁRIOS",Discovery World SD
+http://maxptv.ddns.net:25461/live/MA020/0706/175.ts
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="DOCUMENTÁRIOS",Discovery theater SD
+http://maxptv.ddns.net:25461/live/MA020/0706/179.ts
+#EXTINF:0 tvg-id="HistoryHD.eur" group-title="DOCUMENTÁRIOS",History Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/120.ts
+#EXTINF:0 tvg-id="History.uk" group-title="DOCUMENTÁRIOS",History Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/119.ts
+#EXTINF:0 tvg-id="InvestigationDiscovery.us" group-title="DOCUMENTÁRIOS",ID HD
+http://maxptv.ddns.net:25461/live/MA020/0706/118.ts
+#EXTINF:0 tvg-id="Investigation.uk" group-title="DOCUMENTÁRIOS",ID SD
+http://maxptv.ddns.net:25461/live/MA020/0706/117.ts
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",NHK HD
+http://maxptv.ddns.net:25461/live/MA020/0706/92.ts
+#EXTINF:0 tvg-id="NHK.mx" group-title="DOCUMENTÁRIOS",NHK SD
+http://maxptv.ddns.net:25461/live/MA020/0706/91.ts
+#EXTINF:0 tvg-id="NatGeoWild.it" group-title="DOCUMENTÁRIOS",NatGeo Wild HD
+http://maxptv.ddns.net:25461/live/MA020/0706/96.ts
+#EXTINF:0 tvg-id="natgeowild" group-title="DOCUMENTÁRIOS",NatGeo Wild SD
+http://maxptv.ddns.net:25461/live/MA020/0706/95.ts
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="DOCUMENTÁRIOS",National Geographic HD
+http://maxptv.ddns.net:25461/live/MA020/0706/94.ts
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="DOCUMENTÁRIOS",National Geographic SD
+http://maxptv.ddns.net:25461/live/MA020/0706/93.ts
 
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",BabyTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/222.ts
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="INFANTIL",BabyTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/221.ts
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="INFANTIL",Boomerang HD
+http://maxptv.ddns.net:25461/live/MA020/0706/210.ts
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="INFANTIL",Boomerang SD
+http://maxptv.ddns.net:25461/live/MA020/0706/209.ts
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="INFANTIL",Cartoon Network HD
+http://maxptv.ddns.net:25461/live/MA020/0706/200.ts
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="INFANTIL",Cartoon Network SD
+http://maxptv.ddns.net:25461/live/MA020/0706/199.ts
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="INFANTIL",Discovery Kids HD
+http://maxptv.ddns.net:25461/live/MA020/0706/184.ts
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="INFANTIL",Discovery Kids SD
+http://maxptv.ddns.net:25461/live/MA020/0706/183.ts
+#EXTINF:0 tvg-id="Disney.uk" group-title="INFANTIL",Disney Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/174.ts
+#EXTINF:0 tvg-id="Disney.uk" group-title="INFANTIL",Disney Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/173.ts
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="INFANTIL",Disney Junior HD
+http://maxptv.ddns.net:25461/live/MA020/0706/172.ts
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="INFANTIL",Disney Junior SD
+http://maxptv.ddns.net:25461/live/MA020/0706/171.ts
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="INFANTIL",Disney XD HD
+http://maxptv.ddns.net:25461/live/MA020/0706/170.ts
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="INFANTIL",Disney XD SD
+http://maxptv.ddns.net:25461/live/MA020/0706/169.ts
+#EXTINF:0 tvg-id="Gloobhd.br" group-title="INFANTIL",Gloob HD
+http://maxptv.ddns.net:25461/live/MA020/0706/138.ts
+#EXTINF:0 tvg-id="Gloob.br" group-title="INFANTIL",Gloob SD
+http://maxptv.ddns.net:25461/live/MA020/0706/137.ts
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Nat Geo Kids HD
+http://maxptv.ddns.net:25461/live/MA020/0706/98.ts
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Nat Geo Kids SD
+http://maxptv.ddns.net:25461/live/MA020/0706/97.ts
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="INFANTIL",Nick Jr HD
+http://maxptv.ddns.net:25461/live/MA020/0706/90.ts
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="INFANTIL",Nick Jr SD
+http://maxptv.ddns.net:25461/live/MA020/0706/89.ts
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="INFANTIL",Nickelodeon HD
+http://maxptv.ddns.net:25461/live/MA020/0706/88.ts
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="INFANTIL",Nickelodeon SD
+http://maxptv.ddns.net:25461/live/MA020/0706/87.ts
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Rá-Tim-Bum HD
+http://maxptv.ddns.net:25461/live/MA020/0706/66.ts
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Rá-Tim-Bum SD
+http://maxptv.ddns.net:25461/live/MA020/0706/65.ts
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="INFANTIL",Tooncast SD
+http://maxptv.ddns.net:25461/live/MA020/0706/15.ts
 
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",Band News HD
+http://maxptv.ddns.net:25461/live/MA020/0706/218.ts
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTÍCIAS",Band News SD
+http://maxptv.ddns.net:25461/live/MA020/0706/217.ts
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="NOTÍCIAS",GloboNews HD
+http://maxptv.ddns.net:25461/live/MA020/0706/140.ts
+#EXTINF:0 tvg-id="Globonews.br" group-title="NOTÍCIAS",GloboNews SD
+http://maxptv.ddns.net:25461/live/MA020/0706/139.ts
 
-
-#EXTINF:0 tvg-id=GLOBO SP group-title=Canais | Diversos,GLOBO SP
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/17.m3u8
-
-#EXTINF:0 tvg-id=SBT SP group-title=Canais | Diversos,SBT SP
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/2.m3u8
-
-#EXTINF:0 tvg-id=RECORD SP group-title=Canais| Diversos,RECORD SP
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/3.m3u8
- 
-#EXTINF:0 tvg-id=BAND group-title=Canais| Diversos, BAND
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/4.m3u8
-
-#EXTINF:0 tvg-id=REDETV group-title=Canais| Diversos,REDETV
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-
-#EXTINF:0 tvg-id=Animal Planet group-title=Canais| Diversos,Animal Planet
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/101.m3u8?token=QxBcWRdYGgoRAwVXVABeCQFXAwsCAAUHW1ELBgALUwUIUAxcVgMOA1JDHxcXREpcVghtUVcUXlIIAxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoAAAUBABcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgEIDQAVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhELAQwCGk8=
-
-#EXTINF:0 tvg-id=Nat Geo Wild group-title=Canais|Diversos,Nat Geo Wild
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/113.m3u8?token=QxBcWRdYGgoRUlIDU1RbCVZWVAhQA1IACwoBBwBYBgddAFddVVEAVQpDHxcXREpcVghtUVcUXlIJARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCgQLGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCgoLChcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgEIDAYBGk8=
-
-#EXTINF:0 tvg-id=History group-title=Canais| Diversos,History
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/102.m3u8
-
-#EXTINF:0 tvg-id=National Geographic group-title=Canais| Diversos,National Geographic 
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/112.m3u8?token=QxBcWRdYGgoRB1UDAQcBDQNRBwAAVFdaDVNcVQoMVgUOClAAUAEOAAdDHxcXREpcVghtUVcUXlIJABQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoEDgMLGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCgUKChcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgIMCwEHGk8=
-
-#EXTINF:0 tvg-id=Discovery Turbo HD group-title=Canais| Diversos,Discovery Turbo
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/109.m3u8?token=QxBcWRdYGgoRAwcNAQQMX1ZcAFoDBAJSCgFZAQ8LVg8BClcBAgILVFdDHxcXREpcVghtUVcUXlIICxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACwQBDhcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgEADgwVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhELCAYHDhBJ
-
-#EXTINF:0 tvg-id=Discovery Channel group-title=Canais| Diversos,Discovery Channel
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/104.m3u8?token=QxBcWRdYGgoRUgQGUVZZWgFUUF5XVFZVWVAMVV0NVA5bUQUMVlYMUVJDHxcXREpcVghtUVcUXlIIBhQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACQQMDRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgEMDgQVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhEKCAMODRBJ
-
-#EXTINF:0 tvg-id=Discovery H&H group-title=Canais|Diversos,Discovery H&H
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/106.m3u8?token=QxBcWRdYGgoRAlUBVwFZDQUHCg9WVAYCWlANVwENVAcNC1EBVVRbCQRDHxcXREpcVghtUVcUXlIIBBQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCwAJDxcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgIJCgwVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhELCQYOABBJ
-
-#EXTINF:0 tvg-id=Combate group-title=Canais|Diversos,Combate
+#EXTINF:0 tvg-id="Bandsports.br" group-title="ESPORTES",BandSports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/216.ts
+#EXTINF:0 tvg-id="Bandsports.br" group-title="ESPORTES",BandSports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/215.ts
+#EXTINF:0 tvg-id="Combate.br" group-title="ESPORTES",Combate HD
+http://maxptv.ddns.net:25461/live/MA020/0706/196.ts
+#EXTINF:0 tvg-id="Combate.br" group-title="ESPORTES",Combate SD
 http://maxptv.ddns.net:25461/live/MA020/0706/195.ts
+#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="ESPORTES",Espn Brasil HD
+http://maxptv.ddns.net:25461/live/MA020/0706/164.ts
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",Espn Brasil SD
+http://maxptv.ddns.net:25461/live/MA020/0706/163.ts
+#EXTINF:0 tvg-id="ESPN.uk" group-title="ESPORTES",Espn HD
+http://maxptv.ddns.net:25461/live/MA020/0706/160.ts
+#EXTINF:0 tvg-id="ESPN2.us" group-title="ESPORTES",Espn 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/162.ts
+#EXTINF:0 tvg-id="ESPN.uk" group-title="ESPORTES",Espn SD
+http://maxptv.ddns.net:25461/live/MA020/0706/159.ts
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="ESPORTES",Espn 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/161.ts
+#EXTINF:0 tvg-id="Espnextra.br" group-title="ESPORTES",Espn Extra HD
+http://maxptv.ddns.net:25461/live/MA020/0706/158.ts
+#EXTINF:0 tvg-id="Espnextra.br" group-title="ESPORTES",Espn Extra SD
+http://maxptv.ddns.net:25461/live/MA020/0706/157.ts
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="ESPORTES",Fox Sports 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
+#EXTINF:0 tvg-id="FoxSports.it" group-title="ESPORTES",Fox Sports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
+#EXTINF:0 tvg-id="FoxSports.tr" group-title="ESPORTES",Fox Sports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="ESPORTES",Premiere 1 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/82.ts
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="ESPORTES",Premiere 1 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/81.ts
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",Premiere 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/80.ts
+#EXTINF:0 tvg-id="Premiere2.br" group-title="ESPORTES",Premiere 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/79.ts
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",Premiere 3 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/78.ts
+#EXTINF:0 tvg-id="Premiere3.br" group-title="ESPORTES",Premiere 3 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/77.ts
+#EXTINF:0 tvg-id="Premiere4.br" group-title="ESPORTES",Premiere 4 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/76.ts
+#EXTINF:0 tvg-id="Premiere4.br" group-title="ESPORTES",Premiere 4 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/75.ts
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",Premiere 5 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/74.ts
+#EXTINF:0 tvg-id="Premiere5.br" group-title="ESPORTES",Premiere 5 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/73.ts
+#EXTINF:0 tvg-id="Premiere6.br" group-title="ESPORTES",Premiere 6 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/72.ts
+#EXTINF:0 tvg-id="Premiere6.br" group-title="ESPORTES",Premiere 6 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/71.ts
+#EXTINF:0 tvg-id="Premiere7.br" group-title="ESPORTES",Premiere 7 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/70.ts
+#EXTINF:0 tvg-id="Premiere7.br" group-title="ESPORTES",Premiere 7 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/69.ts
+#EXTINF:0 tvg-id="Sportv.br" group-title="ESPORTES",SporTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/48.ts
+#EXTINF:0 tvg-id="Sportv.br" group-title="ESPORTES",SporTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/47.ts
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",SporTV2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/46.ts
+#EXTINF:0 tvg-id="Sportv2.br" group-title="ESPORTES",SporTV2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/45.ts
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",SporTV3 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/44.ts
+#EXTINF:0 tvg-id="Sportv3.br" group-title="ESPORTES",SporTV3 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/43.ts
 
-#EXTINF:0 tvg-id=BandSports group-title=Canais|Diversos,BandSports
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/34.m3u8
-
-#EXTINF:0 tvg-id=SporTV group-title= Canais| Diversos,SporTV
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/25.m3u8
-
-#EXTINF:0 tvg-id=SporTV2 group-title=Canais|Diversos,SporTV2
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/26.m3u8
-
-#EXTINF:0 tvg-id=SporTV3 group-title=Canais|Diversos,SporTV3
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/27.m3u8
-
-#EXTINF:0 tvg-id=Fox Sports group-title=Canais|Diversos,Fox Sports
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/28.m3u8
-
-#EXTINF:0 tvg-id=Fox Sports2 group-title=Canais|Diversos,Fox Sports2
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/29.m3u8
-
-#EXTINF:0 tvg-id=ESPN group-title=Canais|Diversos,ESPN
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/30.m3u8
-
-#EXTINF:0 tvg-id=ESPN BRASIL group-title=Canais|Diversos,ESPN BRASIL
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/32.m3u8
-
-#EXTINF:0 tvg-id=MEGAPIX HD group-title=Canais|Diversos,MEGAPIX 
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/68.m3u8
-
-#EXTINF:0 tvg-id=MAXPRIME group-title=Canais|Diversos,MAXPRIME
-http://srvlista.com:80/live/Eduardo12/1234/3155.m3u8
-
-#EXTINF:0 tvg-id=AXN HD group-title=Canais|Diversos,AXN
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/70.m3u8
-
-#EXTINF:0 tvg-id=AMC group-title=Canais|Diversos,AMC
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/69.m3u8
-
-#EXTINF:0 tvg-id=TNT SERIES group-title=Canais| Diversos,TNT SERIES
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/66.m3u8
-
-#EXTINF:0 tvg-id=FOX PREMIUM 1 group-title=Canais|Diversos,FOX PREMIUM1
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/62.m3u8
-
-#EXTINF:0 tvg-id=FOX PREMIUM 2 group-title=Canais|Diversos,FOX PREMIUM2
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/63.m3u8
-
-#EXTINF:0 tvg-id=CINEMAX  group-title=Canais|Diversos,CINEMAX
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/76.m3u8
-
-#EXTINF:0 tvg-id=HBO group-title=Canais|Diversos,HBO
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/54.m3u8
-
-#EXTINF:0 tvg-id=HBO 2 group-title=Canais|Diversos,HBO 2
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/55.m3u8
-
-#EXTINF:0 tvg-id=HBO Family group-title=Canais|Diversos,HBO Family
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/57.m3u8
-
-#EXTINF:0 tvg-id=HBO Plus group-title=Canais|Diversos,HBO Plus
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/56.m3u8
-
-#EXTINF:0 tvg-id=HBO Signature group-title=Canais|Diversos,HBO Signature
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/58.m3u8
-
-#EXTINF:0 tvg-id=Telecine Action group-title=Canais|Diversos,Telecine Action
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/51.m3u8
-
-#EXTINF:0 tvg-id=Telecine Premium group-title=Canais|Diversos,Telecine Premium
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/48.m3u8
-
-#EXTINF:0 tvg-id=Telecine Pipoca group-title=Canais|Diversos,Telecine Pipoca
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/49.m3u8
-
-#EXTINF:0 tvg-id=Telecine Cult group-title=Canais|Diversos,Telecine Cult
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/53.m3u8
-
-#EXTINF:0 tvg-id=Telecine Touch group-title=Canais|Diversos,Telecine Touch
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/52.m3u8
-
-#EXTINF:0 tvg-id=Telecine Fun group-title=Canais|Diversos,Telecine Fun
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/50.m3u8
-
-#EXTINF:0 tvg-id=SYFY group-title=Canais|Diversos,SYFY
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/60.m3u8
-
-#EXTINF:0 tvg-id=FX group-title=Canais|Diversos,FX 
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/47.m3u8
-
-#EXTINF:0 tvg-id=Space group-title=Canais|Diversos,Space
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/67.m3u8
-
-#EXTINF:0 tvg-id=TNT group-title=Canais|Diversos,TNT 
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/65.m3u8
-
-#EXTINF:0 tvg-id=Sony group-title=Canais|Diversos,Sony
-https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/59.m3u8
-
-#EXTINF:0 tvg-id=GLOBOSAT group-title=Canais|Diversos,GLOBOSAT
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/81.m3u8?token=QxBcWRdYGgoRUVAEVFMNWw8BBApXUlRWClBZUAkJVgUIBgcIXAIBUQBDHxcXREpcVghtUVcUXlsJHhpGS1xHaFFWFgJGARocERVaWAESAgkbR0JRVxReQQkGCAQNGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQJcTV9UFRdUV0daTBZJGgoRI2EXSBJdQUMAXEtaWQpBAhBVAE0BFxsaW0dnFlVLREEEUlgBQhoDFVUQFBFbBRtnUVddVlxWQ1FdWktGChoAEU0RWAteUU1YF21IWlJGWRoDDAMOABdK
-
-#EXTINF:0 tvg-id=Nickelodeon group-title=Canais|Diversos,Nickelodeon
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/123.m3u8?token=QxBcWRdYGgoRWAoDUgFdAAZSVA1XBVxVCgZZV10MAFZbVlYMAgYIVABDHxcXREpcVghtUVcUXlIKARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDDgcIGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCgMOARcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgAIAQIEGk8=
-
-#EXTINF:0 tvg-id=Tooncast group-title=Canais|Diversos,Tooncast
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/124.m3u8?token=QxBcWRdYGgoRAAtXVQgLDQAAAlkABlZWD1EIBgwNAQRbUwxcVgAJAldDHxcXREpcVghtUVcUXlIKBhQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCwIPDRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgINDwIVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhEJCgQDARBJ
-
-#EXTINF:0 tvg-id=Boomerang group-title=Canais|Diversos,Boomerang
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/127.m3u8?token=QxBcWRdYGgoRBVFUUAJcWg9QBAsDAwBQXQYMBgtbDAMNBFUJAlUKUQVDHxcXREpcVghtUVcUXlIKBRQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDDwMIChcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgsNDBcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgYNDg0VRQ==
-
-#EXTINF:0 tvg-id=Baby tv group-title=Canais|Diversos,Baby tv
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/128.m3u8?token=QxBcWRdYGgoRVwoNAAhbDgZXAlkEV1VSXAMAAFkAVgVdVgUKBgRaCVJDHxcXREpcVghtUVcUXlIKChQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCwsAChcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgIJCQMVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhEJCg0PCBBJ
-
-#EXTINF:0 tvg-id=Nat Geo Kids group-title=Canais|Diversos,Nat Geo Kids
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/114.m3u8?token=QxBcWRdYGgoRUQNQV1YNXFJRAA0HU1IHDlAOBg4NBlRZA1EMVgYOAQNDHxcXREpcVghtUVcUXlIJBhQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoADQIJGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCQAODhcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgEPDw0GGk8=
-
-#EXTINF:0 tvg-id=Gloob group-title=Canais|Diversos,Gloob
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/121.m3u8?token=QxBcWRdYGgoRAwIEXVFZDQIDVFsHVVMGAFdZAllYBlRcAFYMUVYNCAVDHxcXREpcVghtUVcUXlIKAxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCQsPCRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEnJWRAASe1JECAxLEn9cVkNUUFkSd1kWVFdDXEEeFSl1GhUVB1tMQVcQBhoIGgEAAAAVFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhEMCwECGk8=
-
-#EXTINF:0 tvg-id=Discovery Kids group-title=Canais|Diversos,Discovery Kids
-https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/111.m3u8?token=QxBcWRdYGgoRAgANXVVeWwBSUFlXBgAFWVcBCgFfBg8NCwcNVwldAQFDHxcXREpcVghtUVcUXlIJAxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoKAAENGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GeldKUkVxWUFaCxAYdVddQlhSVhhxVUoAX0tfE0wTeCESFBtVDEZKUkIBQQIQCgUPDhcbGlFbTQpESkkRWxF3NhIUG1IdRl1dRQ0MVhACEVUKQA8aHhZRF29KVUAVQVAFXV1LFV8QCBEaRg5ZSmdQV1dbUltGXVcKQxoKEVERGUZdV1deEV1KbEYNBxoIGgsOCwMVRQ==
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",Woohoo HD
+http://maxptv.ddns.net:25461/live/MA020/0706/202.ts
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",Canal Woohoo SD
+http://maxptv.ddns.net:25461/live/MA020/0706/201.ts
+#EXTINF:0 tvg-id="Gnthd.br" group-title="VARIEDADES",GNT HD
+http://maxptv.ddns.net:25461/live/MA020/0706/136.ts
+#EXTINF:0 tvg-id="Gnt.br" group-title="VARIEDADES",GNT SD
+http://maxptv.ddns.net:25461/live/MA020/0706/135.ts
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",Mais Globosat HD
+http://maxptv.ddns.net:25461/live/MA020/0706/114.ts
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",Mais Globosat SD
+http://maxptv.ddns.net:25461/live/MA020/0706/113.ts
